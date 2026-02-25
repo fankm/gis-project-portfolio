@@ -1,17 +1,15 @@
-# :earth_americas: GEO 441B Geographic Information Systems 🌏
+# :earth_americas: GIS Portfolio 🌏
 
 Myles Fankhauser
 
 ## Overview
 
-- This repository contains Google Colab Notebooks prepared for GEO 441/541 @Miami University
-- These notebooks and projects were created in the Fall semester of 2024
+- Third year undergrad at Miami University
+- Pursuing a bachelor's in Urban & Regional Planning
+- Pursuing GIS Certification and minoring in photography
+- Research work has been presented at AGU and AAG National Conferences
 
-## Basic Mapping
+## This Portfolio
 
-- [First map in ArcGIS Pro](link)
-- [Map the age index based on 2000 census data](link)
-
-## Map Coordinate Basics
-
-- [Understanding map coordinates](link)
+- This portfolio was written in Jupyter notebooks
+- It contains coursework, projects, and research notes from 2024 to present
